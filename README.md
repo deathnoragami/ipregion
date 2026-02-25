@@ -23,17 +23,17 @@ Uses **only standard Python libraries** — no `pip install` required.
 
 **Linux / macOS:**
 ```bash
-curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/master/ipregion.py | python3 -
+curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/main/ipregion.py | python3 -
 ```
 
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/deathnoragami/ipregion/master/ipregion.py | python -
+irm https://raw.githubusercontent.com/deathnoragami/ipregion/main/ipregion.py | python -
 ```
 
 **With arguments:**
 ```bash
-curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/master/ipregion.py | python3 - -g primary -j
+curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/main/ipregion.py | python3 - -g primary -j
 ```
 
 ### ✨ Key Features
@@ -120,17 +120,17 @@ YouTube CDN · Netflix CDN
 
 **Linux / macOS:**
 ```bash
-curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/master/ipregion.py | python3 -
+curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/main/ipregion.py | python3 -
 ```
 
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/deathnoragami/ipregion/master/ipregion.py | python -
+irm https://raw.githubusercontent.com/deathnoragami/ipregion/main/ipregion.py | python -
 ```
 
 **С аргументами:**
 ```bash
-curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/master/ipregion.py | python3 - -g primary -j
+curl -sL https://raw.githubusercontent.com/deathnoragami/ipregion/main/ipregion.py | python3 - -g primary -j
 ```
 
 ### ✨ Ключевые возможности
